@@ -1,0 +1,11 @@
+# Environment
+.env.local
+.env
+
+# Next.js build artifacts
+.next/
+out/
+
+# Node modules
+node_modules/
+
